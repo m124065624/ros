@@ -1,0 +1,8 @@
+prefix=/home/michael001126/ros/install
+
+Name: ros
+Description: Description of ros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
